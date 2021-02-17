@@ -1,2 +1,3 @@
 One function of an operating system is controlling performance. The operating system monitors system health to improve performance. This can help improve performance. 
 The operating system manages hardware. The operating system oversees memory and allocates usage. It also oversees the processor and what programs have access to the processor. 
+The opearting system manages devices. It keeps track of what devices are connected. It also creates input/output controllers for each device. 
